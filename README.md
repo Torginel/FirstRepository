@@ -6,4 +6,4 @@
 4. авщтпдватпдтвад
 5. qwerty
 6. hello Nikita. it's me, Torgash. 
-
+7. New String
