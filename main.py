@@ -1,3 +1,4 @@
 print("Пока-пока")
 print("New Branch")
-print('kak dela krasotka?)))')
+print('kak dela')
+print('xexexexe')
